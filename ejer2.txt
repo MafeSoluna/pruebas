@@ -1,0 +1,4 @@
+Browser	dispositivo	so	resolucion
+chrome	celulares	windows	1024x768
+safari	tablets	ios	768x480
+firefox	portatiles	android	806x525
